@@ -41,7 +41,7 @@ export default class Navbar extends Component {
               </Link>
             </li>
             <li className="nav-item-youtube">
-              <a href="https://www.youtube.com/watch?time_continue=3&v=dkdv9Ol1F5M&feature=emb_title" className="YouTube-logo">
+              <a href="" className="YouTube-logo">
                 <img src="./images/logo-youtube.png" alt="Youtube logo"/>
               </a>
             </li>
@@ -81,7 +81,7 @@ export default class Navbar extends Component {
               </Link>
             </li>
             <li className="nav-item-youtube-vertical">
-              <a href="https://www.youtube.com/watch?time_continue=3&v=dkdv9Ol1F5M&feature=emb_title" className="YouTube-logo">
+              <a href="" className="YouTube-logo">
                 <img src="./images/logo-youtube.png" alt="Youtube logo"/>
               </a>
             </li>
