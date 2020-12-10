@@ -34,7 +34,7 @@ function App() {
       </header>
 
       <body id="home">
-        <YoutubeBackround className="Demo" videoId={"dkdv9Ol1F5M"}>
+        <YoutubeBackround className="Demo" videoId={""}>
         </YoutubeBackround>
 
         <div className="App-about" id="about">
